@@ -7,12 +7,12 @@
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "asahatpure16@gmail.com",
-    "phone": "555-555-5555",
+    "phone": "7083344004",
     "address":{
       "street":"(Your Street)",
       "city":"Warud",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "state":"Maharastra",
+      "zip": "444906"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -59,7 +59,7 @@
     "education":[
       {
         "school":"University?",
-        "degree":"Masters in Beer tasting",
+        "degree":"B.E. Computer Technology",
         "graduated":"April 2007",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
